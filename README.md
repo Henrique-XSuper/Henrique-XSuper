@@ -30,16 +30,11 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width=50; style="margin-right: 25px" title="Colab"/>          
 </p>
 
-## Contato
+
 
 ## 🚀 Tecnologias e Ferramentas
 
 - Python,C#, JavaScript, HTML/CSS
 - Git, GitHub, VS Code, Google Colab, MySQL,Asp.Net core
 - APIs, Flask, Django
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/henriquexaviercorreia)
-- [Portfólio](https://henriquexaviercorreia.dev)
 
