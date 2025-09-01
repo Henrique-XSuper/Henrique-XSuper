@@ -52,8 +52,8 @@
 
 
 ### 📫 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com) _(coloca seu link aqui)_  
-- 📷 [Instagram](https://instagram.com) _(coloca seu link aqui)_  
+- 💼 [LinkedIn](https://linkedin.com) 
+- 📷 [Instagram](https://www.instagram.com/hxavier_correia?igsh=ZDE3bTl0dXcyMHlz) 
 
 ---
 
