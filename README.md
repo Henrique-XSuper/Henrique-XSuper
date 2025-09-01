@@ -4,6 +4,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos open-source.
 
 <p>
+  <img src="https://www.daimto.com/wp-content/uploads/2017/12/netcorelarge.png" width=50; style="margin-right: 25px" title="Spring Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width=50; style="margin-right: 25px" title="Spring Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=50; style="margin-right: 25px" title="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width=50; style="margin-right: 25px" title="Hibernate" />
