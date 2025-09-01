@@ -53,8 +53,11 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,C#,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,dotnet,mysql,git,github,vscode,linux,windows" />
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
