@@ -4,7 +4,6 @@
 Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos open-source.
 
 <p>
-<img src="https://www.google.com/imgres?q=asp.net%20core%20com%20mvc%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fee%2F.NET_Core_Logo.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A.NET_Core_Logo.svg&docid=VbfIgl6ax-kFRM&tbnid=6UAZVnJ3lEkXKM&vet=12ahUKEwjl9PfBhriPAxVIFLkGHSqbKUMQM3oECDgQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjl9PfBhriPAxVIFLkGHSqbKUMQM3oECDgQAA" width=50; style="margin-right: 25px" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width=50; style="margin-right: 25px" title="Spring Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=50; style="margin-right: 25px" title="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width=50; style="margin-right: 25px" title="Hibernate" />
@@ -32,8 +31,8 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Python, JavaScript, HTML/CSS
-- Git, GitHub, VS Code
+- Python,C#, JavaScript, HTML/CSS
+- Git, GitHub, VS Code, Google Colab, MySQL,Asp.Net core
 - APIs, Flask, Django
 
 ## 📫 Como me encontrar
