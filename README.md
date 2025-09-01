@@ -11,7 +11,6 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width=50; style="margin-right: 25px" title="OAuth" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50; style="margin-right: 25px" title="Javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width=50; style="margin-right: 25px" title="Nodemon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50; style="margin-right: 25px" title="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=50; style="margin-right: 25px" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width=50; style="margin-right: 25px" title="Sequelize"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width=50; style="margin-right: 25px" title="SQL" />
