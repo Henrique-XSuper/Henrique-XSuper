@@ -27,6 +27,8 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50; style="margin-right: 25px" title="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=50; style="margin-right: 25px" title="Visual Studio"/>          
 </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width=50; style="margin-right: 25px" title="Colab"/>          
+</p>
 
 ## Contato
 
