@@ -5,6 +5,14 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
   
 
 ---
+---
+
+### ✨ Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70A8D&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Sempre+aprendendo+novas+tecnologias;Apaixonado+por+programação+e+jogos;Buscando+novos+desafios" alt="Frase animada" />
+</p>
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -32,8 +40,11 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 ---
 
 ### 📈 Atividade recente
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Henrique-XSuper&theme=dracula)](https://git.io/streak-stats)
-
+<p align="center">
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Henrique-XSuper&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ### 🚀 Projetos em Destaque
