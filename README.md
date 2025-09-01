@@ -1,9 +1,9 @@
 
 # 👋 Olá, eu sou Henrique Xavier 
 <img src="https://komarev.com/ghpvc/?username=Henrique-XSuper&color=blueviolet&style=for-the-badge" align="left" alt="Contador de visitas" />
-</p>
 
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos open-source. <p 
+
+<p>Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos open-source. </p>
   
 <p align="center">
   <img
