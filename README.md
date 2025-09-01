@@ -38,3 +38,43 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 - Git, GitHub, VS Code, Google Colab, MySQL,Asp.Net core
 - APIs, Flask, Django
 
+## 👋 Olá, eu sou o Henrique  
+
+💻 Estudante de **Informática** | 🚀 Futuro Dev | 🎮 Curioso em Jogos e Sistemas  
+
+---
+
+### 🔥 Estatísticas do GitHub  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-XSuper&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,git,github,vscode,linux" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+- 🎮 Mini-jogos em **HTML, CSS e JS**
+- 🖩 Calculadora e sistema de compras em **Python**
+- 🌐 Sites completos prontos para publicar
+
+---
+
+### 📈 Atividade recente
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Henrique-XSuper&theme=dracula)](https://git.io/streak-stats)
+
+---
+
+### 📫 Onde me encontrar
+- 💼 [LinkedIn](https://linkedin.com) _(coloca seu link aqui)_  
+- 📷 [Instagram](https://instagram.com) _(coloca seu link aqui)_  
+
+---
+
+✨ _“Sempre em busca de aprender mais e criar coisas legais!”_
