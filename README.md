@@ -54,7 +54,7 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e projetos
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,html,css,javascript,python,C#,git,github,vscode,linux, Windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,C#,git,github,vscode,linux" />
 </p>
 
 ---
