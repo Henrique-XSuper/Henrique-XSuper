@@ -44,6 +44,7 @@
     <img src="https://streak-stats.demolab.com?user=Henrique-XSuper&theme=dracula" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Projetos em Destaque
@@ -51,7 +52,7 @@
 - 🖩 Sistemas e programas completos em **Python** e **C#**
 - 🌐 Sites completos prontos para publicar
 
-
+---
 
 ### 📫 Onde me encontrar
 
