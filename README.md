@@ -45,6 +45,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Henrique%20&theme=dracula&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
+
 ---
 
 ### 🚀 Projetos em Destaque
