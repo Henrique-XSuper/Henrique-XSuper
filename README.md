@@ -30,18 +30,18 @@
 ---
 
 ### 🔥 Estatísticas do GitHub  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<p align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-XSuper&layout=compact&langs_count=7&theme=dracula"/> 
+</p>
 ---
 
 ### 📈 Atividade recente
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/Henrique-XSuper/Henrique-XSuper" alt="Commits mensais" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-XSuper&layout=compact&theme=dracula" height="170"/>
+  <a href="https://git.io/streak-stats">     
+  <img src="https://streak-stats.demolab.com?user=Henrique-XSuper&theme=dracula" alt="GitHub Streak" />   
+  </a> 
 </p>
 
 
