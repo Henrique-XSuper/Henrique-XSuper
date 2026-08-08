@@ -31,8 +31,16 @@
 
 ### 🔥 Estatísticas do GitHub  
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-XSuper&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-XSuper&theme=dracula&utcOffset=-3" width="46%">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-XSuper&theme=dracula"
+    width="46%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-XSuper&theme=dracula&utcOffset=-3"
+    width="46%"
+  />
 
 </div>
 
