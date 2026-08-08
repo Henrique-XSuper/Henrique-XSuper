@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Henrique Xavier 
+# Olá, eu sou Henrique Xavier 
 <img src="https://komarev.com/ghpvc/?username=Henrique-XSuper&color=blueviolet&style=for-the-badge" align="left" alt="Contador de visitas" />
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - Python,C#, JavaScript, HTML/CSS
 - Git, GitHub, VS Code, Google Colab, MySQL,Asp.Net core
@@ -37,7 +37,7 @@
 </div>
 ---
 
-### 📈 Atividade recente
+### Atividade recente
 
 <p align="center">
   <a href="https://git.io/streak-stats">     
@@ -48,7 +48,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 - 🎮 Mini-jogos em **HTML, CSS e JS**
 - 🖩 Sistemas e programas completos em **Python** e **C#**
 - 🌐 Sites completos prontos para publicar
