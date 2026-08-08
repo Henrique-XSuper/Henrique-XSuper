@@ -1,6 +1,6 @@
 
 # Olá, eu sou Henrique Xavier 
-<img src="https://komarev.com/ghpvc/?username=Henrique-XSuper&color=blueviolet&style=for-the-badge" align="left" alt="Contador de visitas" />
+
 
 <p align="center">
   <img
