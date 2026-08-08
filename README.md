@@ -30,10 +30,7 @@
 ---
 
 ### 🔥 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&theme=dracula" />
-</p>
-
+<img src="https://placehold.co/600x200/png?text=TESTE" />
 ---
 
 ### 📈 Atividade recente
