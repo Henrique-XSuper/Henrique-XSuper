@@ -31,8 +31,7 @@
 
 ### 🔥 Estatísticas do GitHub  
 <p align="center">
-  <img height="180em" src="https://SEU-DOMINIO/api?username=Henrique-XSuper&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://SEU-DOMINIO/api/top-langs/?username=Henrique-XSuper&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&theme=dracula" />
 </p>
 
 ---
