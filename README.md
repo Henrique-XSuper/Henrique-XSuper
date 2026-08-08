@@ -33,11 +33,11 @@
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-XSuper&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-XSuper&theme=radical"
     width="30%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-XSuper&theme=dracula&utcOffset=-3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-XSuper&theme=radical&utcOffset=-3"
     width="30%"
   />
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">     
-  <img src="https://streak-stats.demolab.com?user=Henrique-XSuper&theme=dracula" alt="GitHub Streak" />   
+  <img src="https://streak-stats.demolab.com?user=Henrique-XSuper&theme=radical" alt="GitHub Streak" />   
   </a> 
 </p>
 
