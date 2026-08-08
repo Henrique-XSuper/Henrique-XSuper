@@ -32,9 +32,9 @@
 ### 🔥 Estatísticas do GitHub  
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Henrique-XSuper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-XSuper&layout=compact&langs_count=7&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-XSuper&layout=compact&langs_count=7&theme=dracula" height="180"/>
 
 </div>
 
