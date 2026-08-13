@@ -34,11 +34,11 @@
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-XSuper&theme=radical"
-    width="30%"
+    width="35%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-XSuper&theme=radical&utcOffset=-3"
-    width="30%"
+    width="35%"
   />
 
 </div>
